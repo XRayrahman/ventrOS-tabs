@@ -2,8 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 Also using Material UI for Design System
+
 ## Install MUI Modules
-#### yarn add @mui/material @emotion/react @emotion/styled @mui/styles @mui/icons-material
+
+`yarn add @mui/material @emotion/react @emotion/styled @mui/styles @mui/icons-material`
+
 ## Available Scripts
 
 In the project directory, you can run:
